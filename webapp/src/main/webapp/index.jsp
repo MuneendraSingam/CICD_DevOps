@@ -4,7 +4,7 @@
     <p>Create an account.</p>
     <hr>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
