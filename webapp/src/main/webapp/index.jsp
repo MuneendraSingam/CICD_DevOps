@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New User</h1>
+    <h2>Sign Up</h2/>
     <p>Create an account.</p>
     <hr>
 
