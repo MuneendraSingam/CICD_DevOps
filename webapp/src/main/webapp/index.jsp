@@ -5,14 +5,12 @@
     <p>Create an account.</p>
     <hr>
 
-    <label for="email"><b>Your Email</b></label>
-    <input type="text" placeholder="Enter mail" name="email" id="email" required>
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter email" name="email" id="email" required>
     <br>
-
-    <label for=""><b>Your Name</b></label>
+    <label for="name"><b>Your Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
-
     <label for="psw"><b>Unique_Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
