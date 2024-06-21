@@ -1,17 +1,22 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>New User</h1>
+    <h2>Sign Up</h2/>
+    <p>Create an account.</p>
     <hr>
 
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <label for="email"><b>Your Email</b></label>
+    <input type="text" placeholder="Enter mail" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <label for=""><b>Your Name</b></label>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw"><b>Unique_Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <br>
+    <label for="psw-repeat"><b>Re-enter Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
